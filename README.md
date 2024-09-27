@@ -1,3 +1,3 @@
 # PersonalWeb
 
-ini adalah projek final saya
+ini adalah projek pertama saya hehe
